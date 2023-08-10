@@ -1,4 +1,4 @@
-# Web Design for a Software Product Company
+i# Web Design for a Software Product Company
 
 ## AIM:
 
@@ -419,10 +419,10 @@ Publish the website in the given URL.
 </html>
 ```
 ## OUTPUT:
-![output](./peoplesoutput.png)    
-![output](./productsoutput.png)
-![output](./contactoutput.png)
-![output](./prooutput.png)
+![contactoutput](https://github.com/Krishnakanth23006762/productcompanywebsite/assets/138849446/c2a5e4d8-3afc-4f47-b168-19612a55ae6f)
+![peoplesoutput](https://github.com/Krishnakanth23006762/productcompanywebsite/assets/138849446/b1d61533-24fb-4198-a01e-a50375bbbe00)
+
+
 ## Result:
 
 Thus a website is designed for the software product company and the HTML,CSS code are validated.
