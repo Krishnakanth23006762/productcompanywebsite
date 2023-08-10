@@ -419,10 +419,10 @@ Publish the website in the given URL.
 </html>
 ```
 ## OUTPUT:
-![output](./yamaha1.png)    
-![output](./yamaha2.png)
-![output](./yamaha3.png)
-![output](./yamaha4.png)
+![output](./peoplesoutput.png)    
+![output](./productsoutput.png)
+![output](./contactoutput.png)
+![output](./prooutput.png)
 ## Result:
 
 Thus a website is designed for the software product company and the HTML,CSS code are validated.
