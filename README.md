@@ -421,6 +421,8 @@ Publish the website in the given URL.
 ## OUTPUT:
 ![contactoutput](https://github.com/Krishnakanth23006762/productcompanywebsite/assets/138849446/c2a5e4d8-3afc-4f47-b168-19612a55ae6f)
 ![peoplesoutput](https://github.com/Krishnakanth23006762/productcompanywebsite/assets/138849446/b1d61533-24fb-4198-a01e-a50375bbbe00)
+![homekrishna](https://github.com/Krishnakanth23006762/productcompanywebsite/assets/138849446/8a992072-9485-4ab7-ada5-4689549d035b)
+![productkrishna](https://github.com/Krishnakanth23006762/productcompanywebsite/assets/138849446/d5074de0-affb-43a0-80e0-3bf4539707bd)
 
 
 ## Result:
